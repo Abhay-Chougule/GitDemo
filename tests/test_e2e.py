@@ -45,7 +45,7 @@ class TestOne(BaseClass):
         assert "Success" in message
         print("Abhay -- changes done in e2e test case -- github")
         print("Okk")
-        print("double OKK")
+        print("double OKKK")
 
     @pytest.fixture(params=ItemPurchaseData.test_item_purchase)
     def getData(self, request):
