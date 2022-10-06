@@ -1,0 +1,239 @@
+2022-10-04 10:45:12,876 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 10:45:12,877 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-04 10:45:12,917 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-04 10:45:12,974 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-04 10:45:13,041 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 10:45:13,122 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 10:45:13,122 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 10:45:13,122 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 10:45:13,122 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 10:45:13,154 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 10:45:13,154 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 10:45:13,205 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 10:45:13,205 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 10:45:13,274 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 10:45:13,274 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:20:20,713 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:20:20,713 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-04 12:20:20,755 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-04 12:20:20,812 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-04 12:20:20,878 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:20:20,965 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:20:20,965 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:20:20,965 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 12:20:20,965 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 12:20:20,998 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 12:20:20,998 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 12:20:21,051 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 12:20:21,051 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 12:20:21,119 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:20:21,119 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:23:34,247 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:23:34,248 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-04 12:23:34,289 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-04 12:23:34,345 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-04 12:23:34,414 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:23:34,501 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:23:34,501 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:23:34,501 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 12:23:34,501 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 12:23:34,534 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 12:23:34,534 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 12:23:34,586 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 12:23:34,586 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 12:23:34,655 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:23:34,655 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:23:37,457 : INFO : test_e2e : iphone X
+2022-10-04 12:23:37,464 : INFO : test_e2e : Samsung Note 8
+2022-10-04 12:23:37,473 : INFO : test_e2e : Nokia Edge
+2022-10-04 12:23:37,505 : INFO : test_e2e : Blackberry
+2022-10-04 12:27:22,680 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:27:22,680 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-04 12:27:22,722 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-04 12:27:22,777 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-04 12:27:22,842 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:27:22,928 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:27:22,928 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:27:22,928 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 12:27:22,928 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 12:27:22,960 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 12:27:22,960 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 12:27:23,013 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 12:27:23,013 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 12:27:23,084 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:27:23,084 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:27:26,045 : INFO : test_e2e : iphone X
+2022-10-04 12:27:26,052 : INFO : test_e2e : Samsung Note 8
+2022-10-04 12:27:26,058 : INFO : test_e2e : Nokia Edge
+2022-10-04 12:27:26,091 : INFO : test_e2e : Blackberry
+2022-10-04 12:28:19,353 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:28:19,353 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-04 12:28:19,395 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-04 12:28:19,449 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-04 12:28:19,515 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:28:19,616 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:28:19,616 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-04 12:28:19,616 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 12:28:19,616 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-04 12:28:19,648 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 12:28:19,648 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-04 12:28:19,700 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 12:28:19,700 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-04 12:28:19,770 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:28:19,770 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-04 12:28:22,153 : INFO : test_e2e : iphone X
+2022-10-04 12:28:22,160 : INFO : test_e2e : Samsung Note 8
+2022-10-04 12:28:22,166 : INFO : test_e2e : Nokia Edge
+2022-10-04 12:28:22,201 : INFO : test_e2e : Blackberry
+2022-10-05 11:54:48,026 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 11:54:48,027 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-05 11:54:48,149 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-05 11:54:48,317 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-05 11:54:48,458 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 11:54:48,603 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 11:54:48,603 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 11:54:48,604 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 11:54:48,604 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 11:54:48,720 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 11:54:48,720 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 11:54:48,896 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 11:54:48,896 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 11:54:49,165 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 11:54:49,165 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 11:54:52,690 : INFO : test_e2e : iphone X
+2022-10-05 11:54:52,702 : INFO : test_e2e : Samsung Note 8
+2022-10-05 11:54:52,714 : INFO : test_e2e : Nokia Edge
+2022-10-05 11:54:52,765 : INFO : test_e2e : Blackberry
+2022-10-05 12:00:07,306 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 12:00:07,306 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-05 12:00:07,419 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-05 12:00:07,583 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-05 12:00:07,748 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 12:00:07,902 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 12:00:07,902 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 12:00:07,902 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 12:00:07,902 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 12:00:07,970 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 12:00:07,970 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 12:00:08,137 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 12:00:08,137 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 12:00:08,358 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 12:00:08,358 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 12:00:12,341 : INFO : test_e2e : iphone X
+2022-10-05 12:00:12,358 : INFO : test_e2e : Samsung Note 8
+2022-10-05 12:00:12,374 : INFO : test_e2e : Nokia Edge
+2022-10-05 12:00:12,469 : INFO : test_e2e : Blackberry
+2022-10-05 12:58:23,361 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 12:58:23,362 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-05 12:58:23,401 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-05 12:58:23,455 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-05 12:58:23,519 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 12:58:23,646 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 12:58:23,646 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 12:58:23,647 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 12:58:23,647 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 12:58:23,677 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 12:58:23,677 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 12:58:23,726 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 12:58:23,726 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 12:58:23,794 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 12:58:23,794 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 12:58:28,501 : INFO : test_e2e : iphone X
+2022-10-05 12:58:28,508 : INFO : test_e2e : Samsung Note 8
+2022-10-05 12:58:28,514 : INFO : test_e2e : Nokia Edge
+2022-10-05 12:58:28,547 : INFO : test_e2e : Blackberry
+2022-10-05 13:16:25,324 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:16:25,324 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-05 13:16:25,363 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-05 13:16:25,418 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-05 13:16:25,483 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:16:25,580 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:16:25,580 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:16:25,580 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 13:16:25,580 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 13:16:25,613 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 13:16:25,613 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 13:16:25,664 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 13:16:25,664 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 13:16:25,734 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:16:25,734 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:16:28,422 : INFO : test_e2e : iphone X
+2022-10-05 13:16:28,429 : INFO : test_e2e : Samsung Note 8
+2022-10-05 13:16:28,435 : INFO : test_e2e : Nokia Edge
+2022-10-05 13:16:28,469 : INFO : test_e2e : Blackberry
+2022-10-05 13:18:04,907 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:18:04,907 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-05 13:18:04,951 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-05 13:18:05,007 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-05 13:18:05,076 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:18:05,174 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:18:05,174 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:18:05,174 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 13:18:05,174 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 13:18:05,205 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 13:18:05,205 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 13:18:05,260 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 13:18:05,260 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 13:18:05,329 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:18:05,329 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:18:07,678 : INFO : test_e2e : iphone X
+2022-10-05 13:18:07,686 : INFO : test_e2e : Samsung Note 8
+2022-10-05 13:18:07,692 : INFO : test_e2e : Nokia Edge
+2022-10-05 13:18:07,722 : INFO : test_e2e : Blackberry
+2022-10-05 13:19:30,449 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:19:30,449 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-05 13:19:30,505 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-05 13:19:30,561 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-05 13:19:30,629 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:19:30,720 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:19:30,720 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:19:30,720 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 13:19:30,720 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 13:19:30,752 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 13:19:30,752 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 13:19:30,804 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 13:19:30,804 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 13:19:30,883 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:19:30,883 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:19:33,581 : INFO : test_e2e : iphone X
+2022-10-05 13:19:33,588 : INFO : test_e2e : Samsung Note 8
+2022-10-05 13:19:33,595 : INFO : test_e2e : Nokia Edge
+2022-10-05 13:19:33,630 : INFO : test_e2e : Blackberry
+2022-10-05 13:35:46,146 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:35:46,146 : INFO : test_formSubmission : Name used to test is: Abhi
+2022-10-05 13:35:46,186 : INFO : test_formSubmission : Email used to test is: Kore
+2022-10-05 13:35:46,242 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-05 13:35:46,306 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:35:46,391 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:35:46,391 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 13:35:46,391 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 13:35:46,391 : INFO : test_formSubmission : Name used to test is: Jeni
+2022-10-05 13:35:46,424 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 13:35:46,424 : INFO : test_formSubmission : Email used to test is: Doe
+2022-10-05 13:35:46,475 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 13:35:46,475 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 13:35:46,544 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:35:46,544 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 13:35:49,069 : INFO : test_e2e : iphone X
+2022-10-05 13:35:49,076 : INFO : test_e2e : Samsung Note 8
+2022-10-05 13:35:49,086 : INFO : test_e2e : Nokia Edge
+2022-10-05 13:35:49,116 : INFO : test_e2e : Blackberry
+2022-10-05 15:18:33,705 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 15:18:33,705 : INFO : test_formSubmission : Name used to test is: Snu
+2022-10-05 15:18:33,747 : INFO : test_formSubmission : Email used to test is: snu@gmail.com
+2022-10-05 15:18:33,806 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 15:18:33,882 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 15:20:09,157 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 15:20:09,157 : INFO : test_formSubmission : Name used to test is: Snu
+2022-10-05 15:20:09,195 : INFO : test_formSubmission : Email used to test is: snu@gmail.com
+2022-10-05 15:20:09,257 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 15:20:33,544 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 15:20:33,544 : INFO : test_formSubmission : Name used to test is: Snu
+2022-10-05 15:20:33,586 : INFO : test_formSubmission : Email used to test is: snu@gmail.com
+2022-10-05 15:20:33,651 : INFO : test_formSubmission : Gender used to test is: Female
+2022-10-05 15:20:35,757 : INFO : test_formSubmission : refreshing for test with another data
+2022-10-05 15:20:50,843 : INFO : test_formSubmission : test_formSubmission started Executing
+2022-10-05 15:20:50,843 : INFO : test_formSubmission : Name used to test is: Abhay
+2022-10-05 15:20:50,886 : INFO : test_formSubmission : Email used to test is: abhay@gmail.com
+2022-10-05 15:20:50,945 : INFO : test_formSubmission : Gender used to test is: Male
+2022-10-05 15:20:53,020 : INFO : test_formSubmission : refreshing for test with another data
